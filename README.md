@@ -4,5 +4,4 @@ A new Flutter project.
 
 ## Getting Started
 
-For help getting started with Flutter, view our online
-[documentation](https://flutter.io/).
+ใช้รูปภาพจากอินเทอร์เน็ต บนแอพ กดปุ่มเดินหน้าถอยหลัง กับภาพได้ครับ
